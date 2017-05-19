@@ -4,7 +4,7 @@ here are the commands you have to run, in order, to build this project.
 
 1 - git clone "this project url"
 
-2 - composer create-project laravel/laravel ari 5.2.*
+// 2 - composer create-project laravel/laravel ari 5.2.*  // ignore this
 
 3 - docker-compose build
 
