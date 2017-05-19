@@ -1,0 +1,93 @@
+ARI NAD Project Document / Proposal
+
+
+Tasks:
+
+- Collect client content:
+	- course content: video, audio, images, text, questions + answers
+		- we need to understand course content to best represent it in design + architecture
+	- about page text
+	- contact info (Skype or phone?)
+
+- Architecture Planning
+
+	- HIPPA research
+		- EST 2 hours
+
+	- Full backend Object Mockup:
+		- describe user / course / treatment center relationships in detail
+		- EST 4 hours, subject to revision
+
+	- Dev Ops infrastructure:
+		- Docker containers: nginx, php, mysql, etc
+		- Server host choice
+		- Local, Dev, Prod environment configurations
+		- Deploy procedure plan / script / think about it
+		- git stuff
+		- EST: All of this needs to be considered before we really start building every thing
+
+- UX Planning
+	- Gather content + architecture to create a full site map and start making wireframes
+		- dissimulate the content into what it means and how to use it
+		- turn it into a site map and working wireframe for each page
+		- EST 2-3 days
+	- UI style planning
+
+Deliverables:
+	— phase 0 —  Initialize
+		Deliverables:
+			- Project Proposal
+			- Client Contract
+
+	— phase 1 — Synthesize
+		- Spec doc:
+			- backend object model
+			- working sitemap / working style guide
+			- client content
+		- Specification Document approval by client
+		- Local environment config for both Will and Robert
+
+	— phase 2 — Principal Development
+		- AWS dev server environment
+		- Full site map
+		- Initial Wireframe
+
+	— phase 3 — Alpha Release
+		- Full release candidate ARI site
+			- full realization of the contents of the spec doc (site map, style guide, backend object model)
+		- AWS production server environment
+		- “Does my child / Do I need addiction treatment?” introductory course
+		- User Profile, Course page, Landing page, Sign up, Contact page
+
+
+	— phase 4 —  Feedback, Revisions, Full Release
+		- Client approval of release candidate ARI site OR
+		- Feedback and revisions of the release candidate site within bounds of approved Spec Doc
+		- Full approved ARI site
+
+	— phase 5 — Long Term Support
+		- Continued maintenance of full ARI site functionality
+		- Conditional free course creation
+			- conditional based on contract agreement
+
+
+Timeframe:
+	— phase 0 —  Initialize
+		May 12th - 17th Wed
+
+	— phase 1 —  Synthesize
+		Wed May 17 - Mon May 22
+
+	— phase 2 — Principal Development
+		Monday May 22 - Monday May 29
+
+	— phase 3 — Alpha Release
+		Monday May 29 - Friday June 9th
+
+	— phase 4 — Feedback, revisions, Full Release
+		Mon June 12 - Friday June 16
+
+	— phase 5 — Long Term Support
+
+notes:
+	i like the idea of  courses having their own graphic design for each
